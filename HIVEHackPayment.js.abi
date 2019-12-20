@@ -1,0 +1,50 @@
+{
+    "lang": "javascript",
+    "version": "1.0.0",
+    "abi": [
+        {
+            "name": "can_update",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "notify",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "addGoods",
+            "args": [
+                "string",
+                "string",
+                "number",
+                "number"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "buy",
+            "args": [
+                "string",
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "getAvailable",
+            "args": [
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        }
+    ]
+}
